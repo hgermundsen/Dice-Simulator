@@ -1,4 +1,4 @@
-# Dice-Simulator
+# DiceSimulator
 Basic dice rolling simulator
 
 Has the option of rolling a 6 sided or 20 sided die, 
